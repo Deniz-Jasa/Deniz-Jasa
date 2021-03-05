@@ -43,6 +43,6 @@ Always looking to connect, chat, and meet new people!
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deniz-Jasa&html&line_height=12&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/EricKarpovits/">
+<a href="https://github.com/Deniz-Jasa/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Deniz-Jasa&hide=issues&show_icons=true&line_height=48&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
