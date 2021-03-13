@@ -23,7 +23,7 @@ Always looking to connect, chat, and meet new people!
 
 <br />
 
-### :wrench:  Setup, Technologies, & Tools
+### :wrench: Setup, Technologies, & Tools
 ![](https://img.shields.io/badge/-Mac_Pro-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
@@ -39,13 +39,3 @@ Always looking to connect, chat, and meet new people!
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CUDA-informational?style=flat&logo=nvidia&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-
-### 📈 GitHub Stats
-
-<a href="https://github.com/Deniz-Jasa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deniz-Jasa&html&line_height=12&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/Deniz-Jasa/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Deniz-Jasa&hide=issues&show_icons=true&line_height=48&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
