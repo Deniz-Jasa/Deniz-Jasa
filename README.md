@@ -9,15 +9,15 @@ Data Science community, and enjoys building impactful side projects. Feel free t
 
 A little bit more about me,
 
-• 🔭  Currently in High School
+• 🔭   Currently in High School
 
-• 🌱  Learning about Data and Computer Science
+• 🌱   Learning about Data and Computer Science
 
-• ⚙️  My daily drivers: .cpp, .py, .js, .css
+• ⚙️   My daily drivers: .cpp, .py, .js, .css
 
-• 📘  What I'm reading: Reading List
+• 📘   What I'm reading: Reading List
 
-• 📫  How to reach me: [Instagram](https://www.instagram.com/deniz_jasa/?hl=en) | [LinkedIn](https://ca.linkedin.com/in/deniz-jasarbasic-7ab012208) | [Email](mailto:denizj2828@gmail.com)
+• 📫   How to reach me: [Instagram](https://www.instagram.com/deniz_jasa/?hl=en) | [LinkedIn](https://ca.linkedin.com/in/deniz-jasarbasic-7ab012208) | [Email](mailto:denizj2828@gmail.com)
 
 Always looking to connect, chat, and meet new people!
 
