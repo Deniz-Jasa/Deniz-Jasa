@@ -17,7 +17,7 @@ A little bit more about me,
 
 • 📘   What I'm reading: Reading List
 
-• 📫   How to reach me: [Instagram](https://www.instagram.com/deniz_jasa/?hl=en) | [LinkedIn](https://ca.linkedin.com/in/deniz-jasarbasic-7ab012208) | [Email](mailto:denizj2828@gmail.com)
+• [📫] How to reach me: [Instagram](https://www.instagram.com/deniz_jasa/?hl=en) | [LinkedIn](https://ca.linkedin.com/in/deniz-jasarbasic-7ab012208) | [Email](mailto:denizj2828@gmail.com)
 
 Always looking to connect, chat, and meet new people!
 
