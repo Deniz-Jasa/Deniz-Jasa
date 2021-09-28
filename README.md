@@ -2,15 +2,15 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=deniz-jasa)
 
-My name is Deniz Jasarbasic and I am a Canadian high school student who loves to code, collaborate, and enjoys building impactful side projects. Feel free to check out my projects. 
+My name is Deniz Jasarbasic and I am a Canadian university student who loves to code, collaborate, and enjoys building impactful side projects. Feel free to check out my projects. 
 
 <br />
 
 A little bit more about me,
 
-• 🔭   Currently in High School
+• 🔭   Currently at the University of Ottawa
 
-• 🌱   Learning about Data and Computer Science
+• 🌱   Learning about Data Science and Computer Science
 
 • ⚙️   My daily drivers: .cpp, .py, .js, .css
 
