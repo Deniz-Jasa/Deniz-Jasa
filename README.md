@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=deniz-jasa)
 
-My name is Deniz Jasarbasic and I am a Canadian university student who loves to code, collaborate, and enjoys building impactful side projects. Feel free to check out my projects. 
+My name is Deniz Jasarbasic and I am a Canadian university student who loves to code, collaborate, and enjoys building impactful side projects. Feel free to check out my projects and connect with me. 
 
 <br />
 
