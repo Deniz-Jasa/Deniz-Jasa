@@ -12,7 +12,7 @@ A little bit more about me,
 
 • 🌱   Learning about Data Science and Computer Science
 
-• ⚙️   My daily drivers: .cpp, .py, .js, .css
+• ⚙️   My daily drivers: .cpp, .py, .java, .js, .css/.html
 
 • 📘   What I'm reading: Reading List
 
