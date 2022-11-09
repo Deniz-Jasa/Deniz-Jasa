@@ -18,7 +18,7 @@ A little bit more about me,
 
 • 📫 How to reach me: [Instagram](https://www.instagram.com/deniz_jasa/?hl=en) | [LinkedIn](https://ca.linkedin.com/in/deniz-jasarbasic-7ab012208) | [Email](mailto:denizj2828@gmail.com)
 
-• 💻   Getting ready to relaunch uOttaHack 5 alongside an amazing team for 2022/2023! | [Apply Now For Open Roles](https://www.facebook.com/uottahack/posts/1395673110887781) |
+• 💻   Getting ready to relaunch uOttaHack 5 alongside an amazing team for 2022/2023!
 
 Always looking to connect, chat, and meet new people!
 
