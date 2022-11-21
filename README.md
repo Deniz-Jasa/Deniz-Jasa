@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=deniz-jasa)
 
-My name is Deniz Jasarbasic and I am a computer science student who loves to code, collaborate, and building impactful projects. Feel free to check out my projects and connect with me. 
+My name is Deniz Jasarbasic and I am a computer science student who loves to code, collaborate, and building impactful projects. Feel free to check out my work and connect with me. 
 
 <br />
 
