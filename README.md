@@ -10,5 +10,3 @@ Check out my website below — it's my small mark on the worldwide internet :)
 https://denizjasarbasic.com/
 
 Previously: Engineering @ Apple, OpenText.
-
-<br />
