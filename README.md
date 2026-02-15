@@ -4,7 +4,7 @@ I’m Deniz! I’m currently a Software Engineer at [Mercury](https://mercury.co
 
 Recently in the Fall I was an exchange student at Sorbonne Université in Paris, where I took graduate courses in ML, quantum physics, and bioinformatics (I'm planning to post a few of the projects I worked on here soon). I also maximized the rest of my time traveling, meeting new people, and improving my French :) If you're passionate about any of this, hit me up, I love talking about it.
 
-I’m a also huge advocate of hackathons. A few years ago, I helped restart and lead my university’s hackathon, uOttaHack, which pushed me to grow a lot as an engineer, builder, and aspiring founder. I wrote a [short blog post](https://denizjasarbasic.com/04052025--building-a-hackathon-community) about that experience!
+I’m also a huge advocate of hackathons. A few years ago, I helped restart and lead my university’s hackathon, uOttaHack, which pushed me to grow a lot as an engineer, builder, and aspiring founder. I wrote a [short blog post](https://denizjasarbasic.com/04052025--building-a-hackathon-community) about that experience!
 
 Feel free to connect, and take a look at my website and GitHub below. It’s my small contribution to the internet :)
 
