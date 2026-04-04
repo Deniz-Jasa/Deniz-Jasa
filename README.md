@@ -1,11 +1,11 @@
-### Hey
+### Hi!
 
-My name is Deniz! I’m currently a Software Engineer at [Mercury](https://mercury.com/) based in Ottawa, Canada. If you're a startup or business [check us out](https://demo.mercury.com/dashboard)! I first joined Mercury as an intern in summer 2025 and got hooked on observability and performance work. If you're curious about that kind of thing, here's a [small peak into the types of N+1 problems](https://jkeuhlen.com/2025/08/04/Silly-Computations.html) my manager and I worked on that summer.
+I'm Deniz. I'm currently a Software Engineer at [Mercury](https://mercury.com/) based in Ottawa, Canada. I first joined Mercury as a summer intern, where I learned a ton about observability and performance engineering work. If you're curious, here's a [small preview into the kinds of problems](https://jkeuhlen.com/2025/08/04/Silly-Computations.html) my manager and I tackled that summer.
 
-Recently, I also spent a semester abroad at Sorbonne Université in Paris, where I took graduate courses in machine learning, quantum physics, and bioinformatics (I’m planning to post a few of the projects I worked on here soon). I also maximized the rest of my time traveling, meeting new people, and improving my French. If you're passionate about any of this kind of stuff, hit me up, I love chatting about it.
+Before graduating, I also spent a semester abroad at Sorbonne Université in Paris, where I took graduate courses in ML, Quantum Physics, and Bioinformatics, while maximizing the rest of my time traveling, meeting new people, and improving my French. If you're passionate about any these subjects or traveling in general, hit me up, I enjoy chatting about it :)
 
-I’m also a huge advocate of hackathons. A few years ago, I helped restart and lead my university’s hackathon, uOttaHack. I wrote a [short blog post](https://denizjasarbasic.com/04052025--building-a-hackathon-community) about that experience and how pushed me to grow as a builder, student leader, and aspiring founder.
+I'm also a huge proponent of hackathons. A few years ago, I restarted and led my university's hackathon, uOttaHack. If you're interested, check out this blog post I wrote about the experience and how it helped me grow as an builder and aspiring founder.
 
-Feel free to connect and check out my website/github. It’s my small contribution to the world wide web :)
+Feel free to connect, and enjoy the site!
 
 https://denizjasarbasic.com/
